@@ -49,7 +49,7 @@ Connect to the Windows instance using RDP.</br>
 
 ![image](https://github.com/user-attachments/assets/0c22d8ee-0f24-46cc-822b-129b5212e1b9)
 ### VERSIONING :
-"C:\Users\SEC\Pictures\Screenshots\Screenshot (27).png"
+file:///C:/Users/SEC/Pictures/Screenshots/Screenshot (27).png
 
 
 ## EC2:
