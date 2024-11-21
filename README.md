@@ -38,8 +38,8 @@ Verify the status of both instances in the EC2 dashboard.</br>
 Connect to the Linux instance using SSH.</br>
 Connect to the Windows instance using RDP.</br>
 
-### REG NUMBER : Manoj Kumar G
-### NAME : 212222230078
+### REG NUMBER : BALAMURUGAN B
+### NAME : 212222230016
 
 ## OUTPUT
 ## S3 BUCKET CREATION:
@@ -49,7 +49,9 @@ Connect to the Windows instance using RDP.</br>
 
 ![image](https://github.com/user-attachments/assets/0c22d8ee-0f24-46cc-822b-129b5212e1b9)
 ### VERSIONING :
-"C:\Users\SEC\Pictures\Screenshots\Screenshot (28).png"
+![Screenshot 2024-11-20 222159](https://github.com/user-attachments/assets/e0b9e710-eb5f-41ac-a95f-bfb014456b43)
+
+
 
 ## EC2:
 ![image](https://github.com/user-attachments/assets/494e864e-d75c-49c8-bf2a-e6d5e15d34d1)
@@ -64,3 +66,5 @@ Connect to the Windows instance using RDP.</br>
 
 
   
+
+
